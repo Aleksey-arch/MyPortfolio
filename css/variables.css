@@ -1,0 +1,11 @@
+:root {
+    --breakpoint-xs: 360px;
+    --breakpoint-md: 768px;
+    --breakpoint-xl: 1440px;
+    --color-base: #000000;
+    --color-level-1: #181823;
+    --color-text: #FFFFFF;
+    --color-primary: #5221E6;
+    --color-primary-200: #6d48df;
+    --color-text-gray: #8491A0;
+}
